@@ -1,0 +1,9 @@
+zaid1 30 
+zaid2 36 
+Test1 36 
+test2 0 
+test3 0 
+aaa 0 
+Zaid Ahamed 0 
+Muhammed 21 
+Ishaq 24 
