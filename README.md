@@ -28,10 +28,9 @@ We learned about how we can manipulate many conditions inside the function like 
 
 
 
+![img](img/Name_Entry.png)
 
-          ![img](img/Name_Entry.png)
-
-          ![img](img/Name_Entry2.png)
+![img](img/Name_Entry2.png)
 
 ![img](img/Play1.png)
 
