@@ -1,5 +1,6 @@
 # Hangman Game 
 <br />
+
 * The Game is implement Using python. 
 * Used Tkinter Module to build  Attractive User-Interface  and  Random  Module to get random word from file. 
 * loops   and  functions  are  helped  to  efficiently  build  this  game. 
@@ -34,7 +35,7 @@
 <br /><br /><br />
 
 ## CHALLENGING PART WHILE WORKING ON THE PROJECT 
-<br /><br />
+<br />
 
 - Faced some errors While reading the scoreboard file while the scoreboard is empty. 
 - Faced a problem While inserting an underscore with space `_ `. 
@@ -42,7 +43,7 @@
 <br /><br /><br />
 
 ## ANY NEW THING LEARNT IN PYTHON WHILE WORKING ON THE PROJECT 
-<br /><br />
+<br />
 
 - Clearly understand Filing concepts and methods. 
 - Clearly understand  about Functions and how to use it efficiently in code. 
